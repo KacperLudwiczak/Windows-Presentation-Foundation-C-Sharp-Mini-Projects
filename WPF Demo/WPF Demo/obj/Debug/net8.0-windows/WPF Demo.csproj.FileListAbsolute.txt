@@ -1,0 +1,21 @@
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF Demo\WPF Demo\bin\Debug\net8.0-windows\WPF Demo.exe
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF Demo\WPF Demo\bin\Debug\net8.0-windows\WPF Demo.deps.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF Demo\WPF Demo\bin\Debug\net8.0-windows\WPF Demo.runtimeconfig.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF Demo\WPF Demo\bin\Debug\net8.0-windows\WPF Demo.dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF Demo\WPF Demo\bin\Debug\net8.0-windows\WPF Demo.pdb
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF Demo\WPF Demo\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF Demo\WPF Demo\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF Demo\WPF Demo\obj\Debug\net8.0-windows\WPF Demo_MarkupCompile.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF Demo\WPF Demo\obj\Debug\net8.0-windows\WPF Demo_MarkupCompile.lref
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF Demo\WPF Demo\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF Demo\WPF Demo\obj\Debug\net8.0-windows\WPF Demo.g.resources
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF Demo\WPF Demo\obj\Debug\net8.0-windows\WPF Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF Demo\WPF Demo\obj\Debug\net8.0-windows\WPF Demo.AssemblyInfoInputs.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF Demo\WPF Demo\obj\Debug\net8.0-windows\WPF Demo.AssemblyInfo.cs
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF Demo\WPF Demo\obj\Debug\net8.0-windows\WPF Demo.csproj.CoreCompileInputs.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF Demo\WPF Demo\obj\Debug\net8.0-windows\WPF Demo.sourcelink.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF Demo\WPF Demo\obj\Debug\net8.0-windows\WPF Demo.dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF Demo\WPF Demo\obj\Debug\net8.0-windows\refint\WPF Demo.dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF Demo\WPF Demo\obj\Debug\net8.0-windows\WPF Demo.pdb
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF Demo\WPF Demo\obj\Debug\net8.0-windows\WPF Demo.genruntimeconfig.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF Demo\WPF Demo\obj\Debug\net8.0-windows\ref\WPF Demo.dll
