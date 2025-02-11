@@ -1,0 +1,21 @@
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF Todo App\WPF Todo App\bin\Debug\net8.0-windows\WPF Todo App.exe
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF Todo App\WPF Todo App\bin\Debug\net8.0-windows\WPF Todo App.deps.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF Todo App\WPF Todo App\bin\Debug\net8.0-windows\WPF Todo App.runtimeconfig.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF Todo App\WPF Todo App\bin\Debug\net8.0-windows\WPF Todo App.dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF Todo App\WPF Todo App\bin\Debug\net8.0-windows\WPF Todo App.pdb
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF Todo App\WPF Todo App\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF Todo App\WPF Todo App\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF Todo App\WPF Todo App\obj\Debug\net8.0-windows\WPF Todo App_MarkupCompile.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF Todo App\WPF Todo App\obj\Debug\net8.0-windows\WPF Todo App_MarkupCompile.lref
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF Todo App\WPF Todo App\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF Todo App\WPF Todo App\obj\Debug\net8.0-windows\WPF Todo App.g.resources
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF Todo App\WPF Todo App\obj\Debug\net8.0-windows\WPF Todo App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF Todo App\WPF Todo App\obj\Debug\net8.0-windows\WPF Todo App.AssemblyInfoInputs.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF Todo App\WPF Todo App\obj\Debug\net8.0-windows\WPF Todo App.AssemblyInfo.cs
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF Todo App\WPF Todo App\obj\Debug\net8.0-windows\WPF Todo App.csproj.CoreCompileInputs.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF Todo App\WPF Todo App\obj\Debug\net8.0-windows\WPF Todo App.sourcelink.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF Todo App\WPF Todo App\obj\Debug\net8.0-windows\WPF Todo App.dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF Todo App\WPF Todo App\obj\Debug\net8.0-windows\refint\WPF Todo App.dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF Todo App\WPF Todo App\obj\Debug\net8.0-windows\WPF Todo App.pdb
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF Todo App\WPF Todo App\obj\Debug\net8.0-windows\WPF Todo App.genruntimeconfig.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF Todo App\WPF Todo App\obj\Debug\net8.0-windows\ref\WPF Todo App.dll
