@@ -1,0 +1,25 @@
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF Login App\WPF Login App\bin\Debug\net8.0-windows\WPF Login App.exe
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF Login App\WPF Login App\bin\Debug\net8.0-windows\WPF Login App.deps.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF Login App\WPF Login App\bin\Debug\net8.0-windows\WPF Login App.runtimeconfig.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF Login App\WPF Login App\bin\Debug\net8.0-windows\WPF Login App.dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF Login App\WPF Login App\bin\Debug\net8.0-windows\WPF Login App.pdb
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF Login App\WPF Login App\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF Login App\WPF Login App\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF Login App\WPF Login App\obj\Debug\net8.0-windows\WPF Login App_MarkupCompile.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF Login App\WPF Login App\obj\Debug\net8.0-windows\WPF Login App_MarkupCompile.lref
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF Login App\WPF Login App\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF Login App\WPF Login App\obj\Debug\net8.0-windows\WPF Login App.g.resources
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF Login App\WPF Login App\obj\Debug\net8.0-windows\WPF Login App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF Login App\WPF Login App\obj\Debug\net8.0-windows\WPF Login App.AssemblyInfoInputs.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF Login App\WPF Login App\obj\Debug\net8.0-windows\WPF Login App.AssemblyInfo.cs
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF Login App\WPF Login App\obj\Debug\net8.0-windows\WPF Login App.csproj.CoreCompileInputs.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF Login App\WPF Login App\obj\Debug\net8.0-windows\WPF Login App.sourcelink.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF Login App\WPF Login App\obj\Debug\net8.0-windows\WPF Login App.dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF Login App\WPF Login App\obj\Debug\net8.0-windows\refint\WPF Login App.dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF Login App\WPF Login App\obj\Debug\net8.0-windows\WPF Login App.pdb
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF Login App\WPF Login App\obj\Debug\net8.0-windows\WPF Login App.genruntimeconfig.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF Login App\WPF Login App\obj\Debug\net8.0-windows\ref\WPF Login App.dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF Login App\WPF Login App\obj\Debug\net8.0-windows\LoginView.g.cs
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF Login App\WPF Login App\obj\Debug\net8.0-windows\LoginView.baml
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF Login App\WPF Login App\obj\Debug\net8.0-windows\InvoiceView.g.cs
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF Login App\WPF Login App\obj\Debug\net8.0-windows\InvoiceView.baml
