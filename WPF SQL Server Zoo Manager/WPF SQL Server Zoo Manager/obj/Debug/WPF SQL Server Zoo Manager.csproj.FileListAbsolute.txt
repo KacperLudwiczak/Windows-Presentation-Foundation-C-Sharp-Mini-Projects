@@ -1,0 +1,15 @@
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF SQL Server Zoo Manager\WPF SQL Server Zoo Manager\obj\Debug\WPF SQL Server Zoo Manager.csproj.AssemblyReference.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF SQL Server Zoo Manager\WPF SQL Server Zoo Manager\obj\Debug\MainWindow.g.cs
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF SQL Server Zoo Manager\WPF SQL Server Zoo Manager\obj\Debug\App.g.cs
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF SQL Server Zoo Manager\WPF SQL Server Zoo Manager\obj\Debug\WPF SQL Server Zoo Manager_MarkupCompile.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF SQL Server Zoo Manager\WPF SQL Server Zoo Manager\obj\Debug\WPF SQL Server Zoo Manager_MarkupCompile.lref
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF SQL Server Zoo Manager\WPF SQL Server Zoo Manager\bin\Debug\WPF SQL Server Zoo Manager.exe.config
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF SQL Server Zoo Manager\WPF SQL Server Zoo Manager\bin\Debug\WPF SQL Server Zoo Manager.exe
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF SQL Server Zoo Manager\WPF SQL Server Zoo Manager\bin\Debug\WPF SQL Server Zoo Manager.pdb
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF SQL Server Zoo Manager\WPF SQL Server Zoo Manager\obj\Debug\MainWindow.baml
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF SQL Server Zoo Manager\WPF SQL Server Zoo Manager\obj\Debug\WPF SQL Server Zoo Manager.g.resources
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF SQL Server Zoo Manager\WPF SQL Server Zoo Manager\obj\Debug\WPF_SQL_Server_Zoo_Manager.Properties.Resources.resources
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF SQL Server Zoo Manager\WPF SQL Server Zoo Manager\obj\Debug\WPF SQL Server Zoo Manager.csproj.GenerateResource.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF SQL Server Zoo Manager\WPF SQL Server Zoo Manager\obj\Debug\WPF SQL Server Zoo Manager.csproj.CoreCompileInputs.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF SQL Server Zoo Manager\WPF SQL Server Zoo Manager\obj\Debug\WPF SQL Server Zoo Manager.exe
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\WPF SQL Server Zoo Manager\WPF SQL Server Zoo Manager\obj\Debug\WPF SQL Server Zoo Manager.pdb
